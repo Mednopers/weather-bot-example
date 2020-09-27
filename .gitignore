@@ -1,0 +1,6 @@
+/.idea
+/.composer
+/.bash_history
+/var/
+/vendor/
+!/var/log/.gitkeep
